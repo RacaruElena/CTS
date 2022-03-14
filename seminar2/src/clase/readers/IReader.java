@@ -1,5 +1,6 @@
 package clase.readers;
 
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.List;
 import java.util.Scanner;
@@ -7,21 +8,29 @@ import java.util.Scanner;
 import clase.Aplicant;
 
 public abstract class IReader {
-	public abstract List<Aplicant> readAplicanti(String file) throws FileNotFoundException;
-	public void citireAplicant(Scanner input, Aplicant aplicant) {
-		String nume = input.next();
-		String prenume = input.next();
-		int varsta = input.nextInt();
-		int punctaj = input.nextInt();
-		int nr = input.nextInt();
-		String[] vect = new String[5];
-		for (int i = 0; i < nr; i++)
-			vect[i] = input.next();
-		aplicant.setNume(nume);
-		aplicant.setPrenume(prenume);
-		aplicant.setVarsta(varsta);
-		aplicant.setPunctaj(punctaj);
-		aplicant.setNr_proiecte(nr, vect);
-		
-	}
+    public abstract List<Aplicant> readAplicanti() throws FileNotFoundException;
+
+    protected Scanner scanner;
+
+    public IReader(String numeFisier) throws FileNotFoundException {
+        scanner = new Scanner(new File(numeFisier));
+    }
+
+    public void citireAplicant(Scanner input, Aplicant aplicant) {
+        String nume = input.next();
+        String prenume = input.next();
+        int varsta = input.nextInt();
+        int punctaj = input.nextInt();
+        int nrProiecte = input.nextInt();
+        String[] vect = new String[nrProiecte];
+        for (int i = 0; i < nrProiecte; i++) {
+            vect[i] = input.next();
+        }
+        aplicant.setNume(nume);
+        aplicant.setPrenume(prenume);
+        aplicant.setVarsta(varsta);
+        aplicant.setPunctaj(punctaj);
+        aplicant.setNrproiecte(nrProiecte, vect);
+
+    }
 }
