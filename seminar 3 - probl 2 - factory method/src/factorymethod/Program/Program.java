@@ -1,6 +1,9 @@
 package factorymethod.Program;
 
-import factorymethod.*;
+import factorymethod.Factory;
+import factorymethod.FactoryAutobuz;
+import factorymethod.FactoryTramvai;
+import factorymethod.MijlocTransport;
 
 public class Program {
     private static void afisareMijlocTransport(Factory fabrica, int nrInmatriculare){
