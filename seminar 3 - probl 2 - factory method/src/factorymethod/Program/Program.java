@@ -22,4 +22,5 @@ public class Program {
         afisareMijlocTransport(new FactoryAutobuz(),100);
         afisareMijlocTransport(new FactoryTramvai(),102);
     }
+
 }
