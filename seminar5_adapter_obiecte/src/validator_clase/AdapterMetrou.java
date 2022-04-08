@@ -9,7 +9,7 @@ public class AdapterMetrou extends ValidatorMetrou implements Validator {
         super.validareCalatorie();
     }
 
-//    public void validareAbonament() {
-//        super.validareAbonament();
-//    }
+    public void validareAbonament() {
+        super.validareAbonament();
+    }
 }
