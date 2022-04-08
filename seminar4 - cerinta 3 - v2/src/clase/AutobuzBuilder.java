@@ -20,7 +20,7 @@ public class AutobuzBuilder implements Builder {
     @Override
     public Autobuz build() {
 
-        return new Autobuz(this.numeSofer,this.nrLinie,this.pauzaSofer,this.deschideUsi,this.oraInceput,this.textDerulat);
+        return new Autobuz(this.numeSofer, this.nrLinie, this.pauzaSofer, this.deschideUsi, this.oraInceput, this.textDerulat);
     }
 
     public AutobuzBuilder setNumeSofer(String numeSofer) {

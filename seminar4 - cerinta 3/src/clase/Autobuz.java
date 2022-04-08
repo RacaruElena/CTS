@@ -29,29 +29,29 @@ public class Autobuz {
                 '}';
     }
 
-     void setNumeSofer(String numeSofer) {
+    void setNumeSofer(String numeSofer) {
         this.numeSofer = numeSofer;
     }
 
-     void setNrLinie(int nrLinie) {
+    void setNrLinie(int nrLinie) {
         this.nrLinie = nrLinie;
     }
 
-     void setPauzaSofer(boolean pauzaSofer) {
+    void setPauzaSofer(boolean pauzaSofer) {
         this.pauzaSofer = pauzaSofer;
     }
 
-     void setDeschideUsi(boolean deschideUsi) {
+    void setDeschideUsi(boolean deschideUsi) {
         this.deschideUsi = deschideUsi;
     }
 
-     void setOraInceput(int oraInceput) {
+    void setOraInceput(int oraInceput) {
         this.oraInceput = oraInceput;
     }
 
-     void setTextDerulat(String textDerulat) {
+    void setTextDerulat(String textDerulat) {
         this.textDerulat = textDerulat;
     }
 
-    //am facut setterii default ca sa poata fi apelati doar din pachet si sa nu mai putem apela din main
+    //am facut setter-ii default ca sa poata fi apelati doar din pachet si sa nu mai putem apela din main
 }

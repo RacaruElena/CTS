@@ -1,6 +1,6 @@
 package clase;
 
-public class Autobuz implements MijlocTransport{
+public class Autobuz implements MijlocTransport {
     private String numeSofer;
 
     public Autobuz(String numeSofer) {

@@ -1,6 +1,6 @@
 package clase;
 
-public class Tramvai implements MijlocTransport{
+public class Tramvai implements MijlocTransport {
     private String vatman;
 
     public Tramvai(String vatman) {
