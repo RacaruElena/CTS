@@ -4,9 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CTS.iml" filepath="$PROJECT_DIR$/CTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/probl11 - observer/sem 6 - probl11 - observer.iml" filepath="$PROJECT_DIR$/probl11 - observer/sem 6 - probl11 - observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sem 8 - probl 8 - proxy/sem 8 - probl 8 - proxy.iml" filepath="$PROJECT_DIR$/sem 8 - probl 8 - proxy/sem 8 - probl 8 - proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/sem6 - probl10 - strategy/sem6 - probl10 - strategy.iml" filepath="$PROJECT_DIR$/sem6 - probl10 - strategy/sem6 - probl10 - strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/sem7 - composite/sem7 - composite - probl 10.iml" filepath="$PROJECT_DIR$/sem7 - composite/sem7 - composite - probl 10.iml" />
       <module fileurl="file://$PROJECT_DIR$/sem7 - probl11/sem7 - probl11.iml" filepath="$PROJECT_DIR$/sem7 - probl11/sem7 - probl11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sem8 - probl12/sem8 - probl12.iml" filepath="$PROJECT_DIR$/sem8 - probl12/sem8 - probl12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sem8 - probl14 - template/sem8 - probl14 - template.iml" filepath="$PROJECT_DIR$/sem8 - probl14 - template/sem8 - probl14 - template.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar 1/seminar 1.iml" filepath="$PROJECT_DIR$/seminar 1/seminar 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar 3/seminar 3.iml" filepath="$PROJECT_DIR$/seminar 3/seminar 3.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar 3 - probl 2/seminar 3 - probl 2.iml" filepath="$PROJECT_DIR$/seminar 3 - probl 2/seminar 3 - probl 2.iml" />
