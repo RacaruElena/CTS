@@ -2,25 +2,28 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/seminar7 - probl 6 -composite/..iml" filepath="$PROJECT_DIR$/seminar7 - probl 6 -composite/..iml" />
       <module fileurl="file://$PROJECT_DIR$/CTS.iml" filepath="$PROJECT_DIR$/CTS.iml" />
-      <module fileurl="file://$PROJECT_DIR$/probl11 - observer/sem 6 - probl11 - observer.iml" filepath="$PROJECT_DIR$/probl11 - observer/sem 6 - probl11 - observer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sem 8 - probl 8 - proxy/sem 8 - probl 8 - proxy.iml" filepath="$PROJECT_DIR$/sem 8 - probl 8 - proxy/sem 8 - probl 8 - proxy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sem6 - probl10 - strategy/sem6 - probl10 - strategy.iml" filepath="$PROJECT_DIR$/sem6 - probl10 - strategy/sem6 - probl10 - strategy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sem7 - composite/sem7 - composite - probl 10.iml" filepath="$PROJECT_DIR$/sem7 - composite/sem7 - composite - probl 10.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sem7 - probl11/sem7 - probl11.iml" filepath="$PROJECT_DIR$/sem7 - probl11/sem7 - probl11.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sem8 - probl12/sem8 - probl12.iml" filepath="$PROJECT_DIR$/sem8 - probl12/sem8 - probl12.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sem8 - probl14 - template/sem8 - probl14 - template.iml" filepath="$PROJECT_DIR$/sem8 - probl14 - template/sem8 - probl14 - template.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar 1/seminar 1.iml" filepath="$PROJECT_DIR$/seminar 1/seminar 1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seminar 3/seminar 3.iml" filepath="$PROJECT_DIR$/seminar 3/seminar 3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seminar 3 - probl 2/seminar 3 - probl 2.iml" filepath="$PROJECT_DIR$/seminar 3 - probl 2/seminar 3 - probl 2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seminar 3 - probl 2 - factory method/seminar 3 - probl 2 - factory method.iml" filepath="$PROJECT_DIR$/seminar 3 - probl 2 - factory method/seminar 3 - probl 2 - factory method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar 3 - probl 1 - factory/seminar 3 - probl 1 - factory.iml" filepath="$PROJECT_DIR$/seminar 3 - probl 1 - factory/seminar 3 - probl 1 - factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar 3 - probl 1 - factory method/seminar 3 - probl 1 - factory method.iml" filepath="$PROJECT_DIR$/seminar 3 - probl 1 - factory method/seminar 3 - probl 1 - factory method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar 3 - singleton/seminar 3 - singleton.iml" filepath="$PROJECT_DIR$/seminar 3 - singleton/seminar 3 - singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar 6 - probl11 - observer/seminar 6 - probl11 - observer.iml" filepath="$PROJECT_DIR$/seminar 6 - probl11 - observer/seminar 6 - probl11 - observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar 8 - probl 8 - proxy/seminar 8 - probl 8 - proxy.iml" filepath="$PROJECT_DIR$/seminar 8 - probl 8 - proxy/seminar 8 - probl 8 - proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar 9 - probl 15 - state/seminar 9 - probl 15 - state.iml" filepath="$PROJECT_DIR$/seminar 9 - probl 15 - state/seminar 9 - probl 15 - state.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar 9 - probl 16 - command/seminar 9 - probl 16 - command.iml" filepath="$PROJECT_DIR$/seminar 9 - probl 16 - command/seminar 9 - probl 16 - command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar 9 - probl13 - memento/seminar 9 - probl13 - memento.iml" filepath="$PROJECT_DIR$/seminar 9 - probl13 - memento/seminar 9 - probl13 - memento.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar2/seminar2.iml" filepath="$PROJECT_DIR$/seminar2/seminar2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seminar4/seminar4.iml" filepath="$PROJECT_DIR$/seminar4/seminar4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seminar4 - cerinta 3/seminar4 - cerinta 3.iml" filepath="$PROJECT_DIR$/seminar4 - cerinta 3/seminar4 - cerinta 3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seminar4 - cerinta 3 - v2/seminar4 - cerinta 3 - v2.iml" filepath="$PROJECT_DIR$/seminar4 - cerinta 3 - v2/seminar4 - cerinta 3 - v2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seminar5-facade/seminar5-facade.iml" filepath="$PROJECT_DIR$/seminar5-facade/seminar5-facade.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seminar5_adapter_obiecte/seminar5_adapter_obiecte.iml" filepath="$PROJECT_DIR$/seminar5_adapter_obiecte/seminar5_adapter_obiecte.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seminar6 - flyweight/seminar6 - probl9 - flyweight.iml" filepath="$PROJECT_DIR$/seminar6 - flyweight/seminar6 - probl9 - flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar4 - probl 2 - prototype/seminar4 - probl 2 - prototype.iml" filepath="$PROJECT_DIR$/seminar4 - probl 2 - prototype/seminar4 - probl 2 - prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar4 - probl 3 - builder/seminar4 - probl 3 - builder.iml" filepath="$PROJECT_DIR$/seminar4 - probl 3 - builder/seminar4 - probl 3 - builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar4 - probl 3 - v2/seminar4 - probl 3 - v2.iml" filepath="$PROJECT_DIR$/seminar4 - probl 3 - v2/seminar4 - probl 3 - v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar5 - probl 4 - adapter_obiecte/seminar5 - probl 4 - adapter_obiecte.iml" filepath="$PROJECT_DIR$/seminar5 - probl 4 - adapter_obiecte/seminar5 - probl 4 - adapter_obiecte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar5 - probl 5 - facade/seminar5 - probl 5 - facade.iml" filepath="$PROJECT_DIR$/seminar5 - probl 5 - facade/seminar5 - probl 5 - facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar6 - probl10 - strategy/seminar6 - probl10 - strategy.iml" filepath="$PROJECT_DIR$/seminar6 - probl10 - strategy/seminar6 - probl10 - strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar6 - probl9 - flyweight/seminar6 - probl9 - flyweight.iml" filepath="$PROJECT_DIR$/seminar6 - probl9 - flyweight/seminar6 - probl9 - flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar7 - probl 7 - decorator/seminar7 - probl 7 - decorator.iml" filepath="$PROJECT_DIR$/seminar7 - probl 7 - decorator/seminar7 - probl 7 - decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar8 - probl12 - chain/seminar8 - probl12 - chain.iml" filepath="$PROJECT_DIR$/seminar8 - probl12 - chain/seminar8 - probl12 - chain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar8 - probl14 - template/seminar8 - probl14 - template.iml" filepath="$PROJECT_DIR$/seminar8 - probl14 - template/seminar8 - probl14 - template.iml" />
     </modules>
   </component>
 </project>
